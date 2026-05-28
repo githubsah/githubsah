@@ -8,17 +8,15 @@ Business-focused Data Analyst with hands-on experience in SQL, Excel, Python, an
 
 ## 🛠 Skills & Tools
 
-**Programming & Querying**
-SQL | Python | CTEs | Window Functions
+**Analytics & Business**
+Business Analysis | KPI Reporting | Dashboarding | Data Storytelling | Trend Analysis
 
 **Data Analysis**
-Data Cleaning | EDA | KPI Analysis | Business Analysis | Data Transformation | Pivot Tables
+SQL | Excel | Power BI | Python | EDA | Data Cleaning | Data Transformation
 
-**Visualization & Reporting**
-Excel | Power BI | DAX | Matplotlib
+**Technical & Workflow**
+Pandas | NumPy | Matplotlib | Git | Jupyter Notebook | VS Code
 
-**Libraries & Workflow**
-Pandas | NumPy | Git | VS Code | Jupyter Notebook
 
 ---
 
