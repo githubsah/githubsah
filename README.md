@@ -78,8 +78,7 @@ Performed end-to-end business analysis using formulas, Pivot Tables, dashboards,
 
 ---
 
-
-## 🔗 Connect 
+## 🤝 Connect
 
 LinkedIn: [Sahil Bisht](https://www.linkedin.com/in/sahil-bisht-70b178270/)  
 GitHub: [githubsah](https://github.com/githubsah)
