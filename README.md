@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sahil Bisht
 
-**Data Analyst | Business Analysis | SQL | Excel | Power BI | Python**
+**Data Analyst | Business Analyst | SQL | Excel | Power BI | Python**
 
 Building end-to-end analytics projects using SQL, Excel, Power BI, and Python to solve business problems and generate actionable insights.
 
