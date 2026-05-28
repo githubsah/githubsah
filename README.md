@@ -2,7 +2,7 @@
 
 **Data Analyst | Business Analysis | SQL | Excel | Power BI | Python**
 
-Business-focused Data Analyst with hands-on experience in SQL, Excel, Python, and Power BI for KPI analysis, dashboards, and turning raw data into actionable business insights.
+Building end-to-end analytics projects using SQL, Excel, Power BI, and Python to solve business problems and generate actionable insights.
 
 ---
 
