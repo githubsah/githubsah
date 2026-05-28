@@ -6,15 +6,15 @@ Business-focused Data Analyst with hands-on experience in SQL, Excel, Python, an
 
 ---
 
-## 🛠 Skills & Tools
+### 🛠 Skills & Tools
 
-**Analytics & Business**
+**Analytics & Business**  
 Business Analysis | KPI Reporting | Dashboarding | Data Storytelling | Trend Analysis
 
-**Data Analysis**
+**Data Analysis**  
 SQL | Excel | Power BI | Python | EDA | Data Cleaning | Data Transformation
 
-**Technical & Workflow**
+**Technical & Workflow**  
 Pandas | NumPy | Matplotlib | Git | Jupyter Notebook | VS Code
 
 
