@@ -14,7 +14,7 @@ Business Analysis | KPI Reporting | Dashboarding | Data Storytelling | Trend Ana
 **Data Analysis**  
 SQL | Excel | Power BI | Python | EDA | Data Cleaning | Data Transformation
 
-**Technical & Workflow**  
+**Libraries & Workflow**  
 Pandas | NumPy | Matplotlib | Git | Jupyter Notebook | VS Code
 
 
