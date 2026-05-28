@@ -73,13 +73,13 @@ Performed end-to-end business analysis using formulas, Pivot Tables, dashboards,
 ## 🎯 Current Focus
 
 * Building strong business and analytical thinking
-* Strengthening SQL, Excel, Power BI, and Python skills
+* Improving SQL, Excel, Power BI, and Python for business problem-solving
 * Developing real-world Data Analyst portfolio projects
 
 ---
 
 
-## 🔗 Connect With Me
+## 🔗 Connect 
 
 LinkedIn: [Sahil Bisht](https://www.linkedin.com/in/sahil-bisht-70b178270/)  
 GitHub: [githubsah](https://github.com/githubsah)
