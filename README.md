@@ -78,13 +78,8 @@ Performed end-to-end business analysis using formulas, Pivot Tables, dashboards,
 
 ---
 
-## 📜 Certification
-
-**Complete Data Analytics with AI — GeeksforGeeks (GFG)**
-
----
 
 ## 🔗 Connect With Me
 
-**LinkedIn:** [www.linkedin.com/in/sahil-bisht-70b178270/](http://www.linkedin.com/in/sahil-bisht-70b178270/)
-**GitHub:** github.com/githubsah
+LinkedIn: [Sahil Bisht](https://www.linkedin.com/in/sahil-bisht-70b178270/)  
+GitHub: [githubsah](https://github.com/githubsah)
